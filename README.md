@@ -1,3 +1,3 @@
-# AIDA_phase_one_data_analysis
+# AIDA Phase 1
 
-This repository contains analysis codes for AIDA phase one (QC part mostly).
+This repository contains the code for pre-processing and data analysis of the AIDA Phase 1 dataset.
