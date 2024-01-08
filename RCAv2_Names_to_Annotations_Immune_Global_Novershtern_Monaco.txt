@@ -1,0 +1,107 @@
+RCAv2_Names	Annotation_Names
+L44_HSC_Bone.Marrow	L44_HSC_Bone.Marrow
+L45_CMP_Bone.Marrow	L45_CMP_Bone.Marrow
+L46_GMP_Bone.Marrow	L46_GMP_Bone.Marrow
+L47_MEP_Bone.Marrow	L47_MEP_Bone.Marrow
+L48_Myelocyte_Bone.Marrow	L48_Myelocyte_Bone.Marrow
+L49_Myelocyte_Bone.Marrow	L49_Myelocyte_Bone.Marrow
+L50_CFU_Bone.Marrow	L50_CFU_Bone.Marrow
+L51_B.Cell_Bone.Marrow	L51_B.Cell_Bone.Marrow
+L52_Platelet	Platelet
+L53_Erythroblast_Late	L53_Erythroblast_Late
+L54_Erythroblast_Pro	L54_Erythroblast_Pro
+L58_Monocyte	Monocyte
+L59_Monocyte_CD14	CD14_Monocyte
+L60_Monocyte_CD16	CD16_Monocyte
+L61_Monocyte_CD16	CD16_Monocyte
+L62_Monocyte	Monocyte
+L63_Macrophage_Monocyte.derived	L63_Macrophage_Monocyte.derived
+L64_Macrophage_Monocyte.derived	L64_Macrophage_Monocyte.derived
+L65_Macrophage_Monocyte.derived	L65_Macrophage_Monocyte.derived
+L66_Macrophage_Monocyte.derived	L66_Macrophage_Monocyte.derived
+L67_Macrophage_Alveolar	L67_Macrophage_Alveolar
+L68_Dendritic.Cell_Monocyte.derived	mDC
+L69_Dendritic.Cell_Monocyte.derived	mDC
+L70_Dendritic.Cell_CD16	CD16_DC
+L71_Dendritic.Cell_Plasmacytoid	pDC
+L72_Dendritic.Cell_Plasmacytoid	pDC
+L73_T.Cell_CD4.Naive	CD4_T_Naive
+L74_T.Cell_CD4.Centr..Memory	CD4_T_Central_Memory
+L75_T.Cell_CD4.Centr..Memory	CD4_T_Central_Memory
+L76_T.Cell_CD4.Eff..Memory	CD4_T_Effector_Memory
+L77_T.Cell_CD8.Centr..Memory	CD8_T_Central_Memory
+L78_T.Cell_CD8	CD8_T
+L79_T.Cell_CD4	CD4_T
+L80_T.Cell_CD8.Eff..Memory	CD8_T_Effector_Memory
+L81_T.Cell_CD8.Naive	CD8_T_Naive
+L82_T.Cell_CD8	CD8_T
+L83_T.Cell_CD4	CD4_T
+L84_T.Cell_CD4.Naive	CD4_T_Naive
+L85_NK.Cell_CD56Hi	CD56hi_NK
+L86_NK.Cell_CD56Lo	CD56lo_NK
+L87_Neutrophil	L87_Neutrophil
+L88_Neutrophil	L88_Neutrophil
+L89_B.Cell	B
+L90_B.Cell_Naive	Naive_B
+L91_B.Cell	B
+L92_B.Cell_Memory	Memory_B
+L93_B.Cell_Plasma.Cell	Plasma_Cell
+X721_B_lymphoblasts	X721_B_lymphoblasts
+BDCA4._DentriticCells	pDC
+CD14._Monocytes	CD14_Monocyte
+CD19._BCells.neg._sel..	B
+CD33._Myeloid	CD33_Myeloid
+CD34.	CD34_HSPC
+CD4._Tcells	CD4_T
+CD56._NKCells	CD56_NK
+CD71._EarlyErythroid	CD71._EarlyErythroid
+CD8._Tcells	CD8_T
+Leukemia_chronicMyelogenousK.562	Leukemia_chronicMyelogenousK.562
+Leukemia_promyelocytic.HL.60	Leukemia_promyelocytic.HL.60
+Leukemialymphoblastic.MOLT.4.	Leukemialymphoblastic.MOLT.4.
+Lymphoma_burkitts.Daudi.	Lymphoma_burkitts.Daudi.
+Lymphoma_burkitts.Raji.	Lymphoma_burkitts.Raji.
+Naive B-Cells	Naive_B
+Mature B-Cells	Mature_B
+Plasmacytoid Dendritic Cell	pDC
+Myeloid Dendritic Cell	mDC
+Hematopoietic stem cell	CD34_HSPC
+Megakaryocyte	Megakaryocyte
+Monocyte	Monocyte
+Non-classical Monocyte	CD16_Monocyte
+Mature NK cell_CD56+ CD16+ CD3-	NK
+Naive CD8+ T-cell	CD8_T_Naive
+CD8+ Effector Memory	CD8_T_Effector_Memory
+CD8+ Central Memory	CD8_T_Central_Memory
+Naive CD4+ T-cell	CD4_T_Naive
+CD4+ Effector Memory	CD4_T_Effector_Memory
+CD4+ Central Memory	CD4_T_Central_Memory
+CD8naive	CD8_T_Naive
+CD8CM	CD8_T_Central_Memory
+CD8EM	CD8_T_Effector_Memory
+CD8TE	CD8_T_TE
+MAIT	MAIT
+VD2	VD2
+TFH	TFH
+Treg	Treg
+Th1	Th1
+Th1.Th17	Th1.Th17
+Th17	Th17
+Th2	Th2
+CD4naive	CD4_T_Naive
+Progenitor	Progenitor
+Bnaive	Naive_B
+BNSM	BNSM
+BEx	BEx
+BSM	BSM
+Plasmablasts	Plasmablasts
+Cmono	CD14_Monocyte
+Imono	Imono
+NCmono	CD16_Monocyte
+NK	NK
+pDC	pDC
+mDC	mDC
+Neutrophils	Neutrophils
+Basophils	Basophils
+CD4TE	CD4_T_TE
+PBMC	PBMC

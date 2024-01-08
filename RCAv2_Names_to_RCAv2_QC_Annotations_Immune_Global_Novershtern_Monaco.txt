@@ -1,0 +1,107 @@
+RCAv2_Names	RCAv2_QC
+L44_HSC_Bone.Marrow	L44_HSC_Bone.Marrow
+L45_CMP_Bone.Marrow	CD34_HSPC
+L46_GMP_Bone.Marrow	L46_GMP_Bone.Marrow
+L47_MEP_Bone.Marrow	L47_MEP_Bone.Marrow
+L48_Myelocyte_Bone.Marrow	L48_Myelocyte_Bone.Marrow
+L49_Myelocyte_Bone.Marrow	L49_Myelocyte_Bone.Marrow
+L50_CFU_Bone.Marrow	L50_CFU_Bone.Marrow
+L51_B.Cell_Bone.Marrow	L51_B.Cell_Bone.Marrow
+L52_Platelet	Platelet
+L53_Erythroblast_Late	L53_Erythroblast_Late
+L54_Erythroblast_Pro	L54_Erythroblast_Pro
+L58_Monocyte	Myeloid
+L59_Monocyte_CD14	Myeloid
+L60_Monocyte_CD16	Myeloid
+L61_Monocyte_CD16	Myeloid
+L62_Monocyte	Myeloid
+L63_Macrophage_Monocyte.derived	L63_Macrophage_Monocyte.derived
+L64_Macrophage_Monocyte.derived	L64_Macrophage_Monocyte.derived
+L65_Macrophage_Monocyte.derived	L65_Macrophage_Monocyte.derived
+L66_Macrophage_Monocyte.derived	L66_Macrophage_Monocyte.derived
+L67_Macrophage_Alveolar	L67_Macrophage_Alveolar
+L68_Dendritic.Cell_Monocyte.derived	Myeloid
+L69_Dendritic.Cell_Monocyte.derived	Myeloid
+L70_Dendritic.Cell_CD16	CD16_DC
+L71_Dendritic.Cell_Plasmacytoid	pDC
+L72_Dendritic.Cell_Plasmacytoid	pDC
+L73_T.Cell_CD4.Naive	T
+L74_T.Cell_CD4.Centr..Memory	T
+L75_T.Cell_CD4.Centr..Memory	T
+L76_T.Cell_CD4.Eff..Memory	T
+L77_T.Cell_CD8.Centr..Memory	T
+L78_T.Cell_CD8	T
+L79_T.Cell_CD4	T
+L80_T.Cell_CD8.Eff..Memory	T
+L81_T.Cell_CD8.Naive	T
+L82_T.Cell_CD8	T
+L83_T.Cell_CD4	T
+L84_T.Cell_CD4.Naive	T
+L85_NK.Cell_CD56Hi	NK
+L86_NK.Cell_CD56Lo	NK
+L87_Neutrophil	L87_Neutrophil
+L88_Neutrophil	L88_Neutrophil
+L89_B.Cell	B
+L90_B.Cell_Naive	B
+L91_B.Cell	B
+L92_B.Cell_Memory	B
+L93_B.Cell_Plasma.Cell	Plasma_Cell
+X721_B_lymphoblasts	X721_B_lymphoblasts
+BDCA4._DentriticCells	pDC
+CD14._Monocytes	Myeloid
+CD19._BCells.neg._sel..	B
+CD33._Myeloid	Myeloid
+CD34.	CD34_HSPC
+CD4._Tcells	T
+CD56._NKCells	NK
+CD71._EarlyErythroid	CD71._EarlyErythroid
+CD8._Tcells	T
+Leukemia_chronicMyelogenousK.562	Leukemia_chronicMyelogenousK.562
+Leukemia_promyelocytic.HL.60	Leukemia_promyelocytic.HL.60
+Leukemialymphoblastic.MOLT.4.	Leukemialymphoblastic.MOLT.4.
+Lymphoma_burkitts.Daudi.	Lymphoma_burkitts.Daudi.
+Lymphoma_burkitts.Raji.	Lymphoma_burkitts.Raji.
+Naive B-Cells	B
+Mature B-Cells	B
+Plasmacytoid Dendritic Cell	pDC
+Myeloid Dendritic Cell	Myeloid
+Hematopoietic stem cell	CD34_HSPC
+Megakaryocyte	Megakaryocyte
+Monocyte	Myeloid
+Non-classical Monocyte	Myeloid
+Mature NK cell_CD56+ CD16+ CD3-	NK
+Naive CD8+ T-cell	T
+CD8+ Effector Memory	T
+CD8+ Central Memory	T
+Naive CD4+ T-cell	T
+CD4+ Effector Memory	T
+CD4+ Central Memory	T
+CD8naive	T
+CD8CM	T
+CD8EM	T
+CD8TE	T
+MAIT	T
+VD2	T
+TFH	T
+Treg	T
+Th1	T
+Th1.Th17	T
+Th17	T
+Th2	T
+CD4naive	T
+Progenitor	Progenitor
+Bnaive	B
+BNSM	BNSM
+BEx	BEx
+BSM	BSM
+Plasmablasts	Plasmablasts
+Cmono	Myeloid
+Imono	Myeloid
+NCmono	Myeloid
+NK	NK
+pDC	pDC
+mDC	Myeloid
+Neutrophils	Neutrophils
+Basophils	Basophils
+CD4TE	T
+PBMC	PBMC
